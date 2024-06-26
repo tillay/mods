@@ -20,35 +20,29 @@ https://modrinth.com/mod/xaeroplus
 
 - Xaeros Worldmap: 
 
-Adds a fullscreen map to Xaeros minimap. Great for basehunting. May have some compability problems, but I havent seen any. 
+  Adds a fullscreen map to Xaeros minimap. Great for basehunting. May have some compability problems, but I havent seen any. 
 
-https://modrinth.com/mod/xaeros-world-map
+  https://modrinth.com/mod/xaeros-world-map
 
--
+- Xaeros Minimap: 
 
-Xaeros Minimap: 
+  Adds a small minimap to the corner of your screen. Great for seeing where you are. 
 
-Adds a small minimap to the corner of your screen. Great for seeing where you are. 
+  https://modrinth.com/mod/xaeros-minimap
 
-https://modrinth.com/mod/xaeros-minimap
+- Baritone Standalone Fabric: 
 
--
+  Works with meteor client, it is a path planning automation mod. Good for long trips, can be left afk. 
 
-Baritone Standalone Fabric: 
+  Go to the releases tab on the github if you want to download the jar if not from this repo. 
 
-Works with meteor client, it is a path planning automation mod. Good for long trips, can be left afk. 
+  https://github.com/cabaletta/baritone
 
-Go to the releases tab on the github if you want to download the jar if not from this repo. 
+- Bobby: 
 
-https://github.com/cabaletta/baritone
+  Mod for increasing render distance. Great for exploring, but may require a lot of RAM if you make the render distance too high. 
 
--
-
-Bobby: 
-
-Mod for increasing render distance. Great for exploring, but may require a lot of RAM if you make the render distance too high. 
-
-https://modrinth.com/mod/bobby/
+  https://modrinth.com/mod/bobby/
 
 -
 
