@@ -18,9 +18,7 @@ Xaerosplus:
 
 https://modrinth.com/mod/xaeroplus
 
--
-
-Xaeros Worldmap: 
+- Xaeros Worldmap: 
 
 Adds a fullscreen map to Xaeros minimap. Great for basehunting. May have some compability problems, but I havent seen any. 
 
