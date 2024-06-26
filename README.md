@@ -18,6 +18,7 @@ Xaerosplus:
 
 https://modrinth.com/mod/xaeroplus
 
+-
 
 Xaeros Worldmap: 
 
@@ -25,6 +26,7 @@ Adds a fullscreen map to Xaeros minimap. Great for basehunting. May have some co
 
 https://modrinth.com/mod/xaeros-world-map
 
+-
 
 Xaeros Minimap: 
 
@@ -32,6 +34,7 @@ Adds a small minimap to the corner of your screen. Great for seeing where you ar
 
 https://modrinth.com/mod/xaeros-minimap
 
+-
 
 Baritone Standalone Fabric: 
 
@@ -41,6 +44,7 @@ Go to the releases tab on the github if you want to download the jar if not from
 
 https://github.com/cabaletta/baritone
 
+-
 
 Bobby: 
 
@@ -48,6 +52,7 @@ Mod for increasing render distance. Great for exploring, but may require a lot o
 
 https://modrinth.com/mod/bobby/
 
+-
 
 Cloth Config API:
 
@@ -55,6 +60,7 @@ Mod to addd configuration capibilities to the mod menu.
 
 https://modrinth.com/mod/cloth-config/version/13.0.121+fabric
 
+-
 
 Fabric API:
 
@@ -62,6 +68,7 @@ Mod required for many other mods to work well with the Fabric modloader. Require
 
 https://modrinth.com/mod/fabric-api
 
+-
 
 IrisMC:
 
@@ -69,6 +76,7 @@ Adds shader capibility to make the game prettier or make renders.
 
 https://modrinth.com/mod/iris
 
+-
 
 Litematica-Fabric:
 
@@ -76,6 +84,7 @@ Mod to create and load schematics from a creative world for large builds or farm
 
 https://www.curseforge.com/minecraft/mc-mods/litematica
 
+-
 
 Meteor Client:
 
@@ -85,6 +94,7 @@ https://github.com/MeteorDevelopment/meteor-client
 
 https://meteorclient.com/
 
+-
 
 Mod Menu:
 
@@ -92,6 +102,7 @@ Lets you open up a menu to see and configure all your active mods.
 
 https://modrinth.com/mod/modmenu
 
+-
 
 Sodium: 
 
@@ -99,6 +110,7 @@ Important optimization mod to boost FPS for high end PC's and make Minecraft pla
 
 https://modrinth.com/mod/sodium/
 
+-
 
 Tweakeroo:
 
@@ -106,11 +118,15 @@ Good utility mod for building, fast place and destroy, aim locking, and many mor
 
 https://www.curseforge.com/minecraft/mc-mods/tweakeroo
 
+-
+
 Yet Another Config Lib:
 
 Adds more configuration capibility to some mods that need it. 
 
 https://modrinth.com/mod/yacl
+
+-
 
 # Contact
 
