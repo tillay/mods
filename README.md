@@ -12,11 +12,11 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
 # Dev links
 
-Xaerosplus: 
+- Xaerosplus: 
 
-2b2t features for Xaeros map mod. Adds newchunks, waypoints, and lots more:
+  2b2t features for Xaeros map mod. Adds newchunks, waypoints, and lots more:
 
-https://modrinth.com/mod/xaeroplus
+  https://modrinth.com/mod/xaeroplus
 
 - Xaeros Worldmap: 
 
@@ -44,81 +44,61 @@ https://modrinth.com/mod/xaeroplus
 
   https://modrinth.com/mod/bobby/
 
--
+- Cloth Config API:
 
-Cloth Config API:
+  Mod to addd configuration capibilities to the mod menu. 
 
-Mod to addd configuration capibilities to the mod menu. 
+  https://modrinth.com/mod/cloth-config/version/13.0.121+fabric
 
-https://modrinth.com/mod/cloth-config/version/13.0.121+fabric
+- Fabric API:
 
--
+  Mod required for many other mods to work well with the Fabric modloader. Required for most modpacks.
 
-Fabric API:
+  https://modrinth.com/mod/fabric-api
 
-Mod required for many other mods to work well with the Fabric modloader. Required for most modpacks.
+- IrisMC:
 
-https://modrinth.com/mod/fabric-api
+  Adds shader capibility to make the game prettier or make renders. 
 
--
+  https://modrinth.com/mod/iris
 
-IrisMC:
+- Litematica-Fabric:
 
-Adds shader capibility to make the game prettier or make renders. 
+  Mod to create and load schematics from a creative world for large builds or farms. 
 
-https://modrinth.com/mod/iris
+  https://www.curseforge.com/minecraft/mc-mods/litematica
 
--
+- Meteor Client:
 
-Litematica-Fabric:
+  Important utility hacked client. Adds lots of features like ESP, X-Ray, tracers, nametags, and many more. 
 
-Mod to create and load schematics from a creative world for large builds or farms. 
+  https://github.com/MeteorDevelopment/meteor-client
 
-https://www.curseforge.com/minecraft/mc-mods/litematica
+  https://meteorclient.com/
 
--
+- Mod Menu:
 
-Meteor Client:
+  Lets you open up a menu to see and configure all your active mods. 
 
-Important utility hacked client. Adds lots of features like ESP, X-Ray, tracers, nametags, and many more. 
+  https://modrinth.com/mod/modmenu
 
-https://github.com/MeteorDevelopment/meteor-client
+- Sodium: 
 
-https://meteorclient.com/
+  Important optimization mod to boost FPS for high end PC's and make Minecraft playable on lower end PC's
 
--
+  https://modrinth.com/mod/sodium/
 
-Mod Menu:
+- Tweakeroo:
 
-Lets you open up a menu to see and configure all your active mods. 
+  Good utility mod for building, fast place and destroy, aim locking, and many more.
 
-https://modrinth.com/mod/modmenu
+  https://www.curseforge.com/minecraft/mc-mods/tweakeroo
 
--
+- Yet Another Config Lib:
 
-Sodium: 
+  Adds more configuration capibility to some mods that need it. 
 
-Important optimization mod to boost FPS for high end PC's and make Minecraft playable on lower end PC's
-
-https://modrinth.com/mod/sodium/
-
--
-
-Tweakeroo:
-
-Good utility mod for building, fast place and destroy, aim locking, and many more.
-
-https://www.curseforge.com/minecraft/mc-mods/tweakeroo
-
--
-
-Yet Another Config Lib:
-
-Adds more configuration capibility to some mods that need it. 
-
-https://modrinth.com/mod/yacl
-
--
+  https://modrinth.com/mod/yacl
 
 # Contact
 
