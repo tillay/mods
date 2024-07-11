@@ -62,14 +62,6 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
   https://www.curseforge.com/minecraft/mc-mods/litematica
 
-- Meteor Client:
-
-  Important utility hacked client. Adds lots of features like ESP, X-Ray, tracers, nametags, and many more. 
-
-  https://github.com/MeteorDevelopment/meteor-client
-
-  https://meteorclient.com/
-
 - Mod Menu:
 
   Lets you open up a menu to see and configure all your active mods. 
@@ -78,7 +70,7 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
 - Sodium: 
 
-  Important optimization mod to boost FPS for high end PC's and make Minecraft playable on lower end PC's
+  Important optimization mod to boost FPS for high end PCs and make Minecraft playable on lower end PCs
 
   https://modrinth.com/mod/sodium/
 
