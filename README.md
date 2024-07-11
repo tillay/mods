@@ -14,15 +14,9 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
 - Xaerosplus: 
 
-  2b2t features for Xaeros map mod. Adds newchunks, waypoints, and lots more:
+  2b2t features for Xaeros map mod. Adds newchunks, waypoints, and lots more. Also has functionality of Xaeros Worldmap:
 
   https://modrinth.com/mod/xaeroplus
-
-- Xaeros Worldmap: 
-
-  Adds a fullscreen map to Xaeros minimap. Great for basehunting. May have some compability problems, but I havent seen any. 
-
-  https://modrinth.com/mod/xaeros-world-map
 
 - Xaeros Minimap: 
 
