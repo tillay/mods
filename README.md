@@ -4,7 +4,7 @@ This is Tilley8's 2b2t modpack.
 
 It has all of the mods required for a good experience on 2b2t. 
 
-It can function with rusherhack, and I may provide a patch soon that fixes it to be compatible with future as well. 
+I use it in combination with Future Client and Rusherhack. 
 
 None of these mods are made by me, and I do not claim ownership of any of them. 
 
