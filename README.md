@@ -54,6 +54,8 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
   The name of the mod file is client-1.20.3-1.20.1.jar
 
+  https://www.futureclient.net/purchase.php
+
 - Cloth Config API:
 
   Mod to addd configuration capibilities to the mod menu. 
@@ -93,6 +95,8 @@ None of these mods are made by me, and I do not claim ownership of any of them.
   If you do not intend to pay for Rusherhack, simply remove the mod from your mods folder after downloading the zip or cloning the repo.
 
   The name of the mod file is rusherhack-loader.jar
+
+  https://rusherhack.org/
   
 - Sodium: 
 
