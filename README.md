@@ -24,9 +24,9 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
   https://modrinth.com/mod/xaeros-minimap
 
-- Baritone Standalone Fabric: 
+- Baritone API mod: 
 
-  Works with meteor client, it is a path planning automation mod. Good for long trips, can be left afk. 
+  Works with Future Integration, it is a path planning automation mod. Good for long trips, can be left afk. 
 
   Go to the releases tab on the github if you want to download the jar if not from this repo. 
 
