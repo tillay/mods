@@ -2,6 +2,8 @@
 
 This is Tilley8's 2b2t modpack. 
 
+INTENDED FOR USE WITH MINECRAFT VERSION 1.20.6
+
 It has all of the mods required for a good experience on 2b2t. 
 
 I use it in combination with Future Client and Rusherhack. 
