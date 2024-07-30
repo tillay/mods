@@ -4,7 +4,7 @@ This is Tilley8's 2b2t modpack.
 
 It has all of the mods required for a good experience on 2b2t. 
 
-I use it in combination with Future Client and Rusherhack. 
+This version is designed to utilize meteor client. 
 
 None of these mods are made by me, and I do not claim ownership of any of them. 
 
@@ -43,18 +43,6 @@ None of these mods are made by me, and I do not claim ownership of any of them.
   Mod for increasing render distance. Great for exploring, but may require a lot of RAM if you make the render distance too high. 
 
   https://modrinth.com/mod/bobby/
-  
-- Future Client
-  
-  A great hacked client/utility mod I use mainly for PvP.
-  
-  You need to run the installer you get from the forum before it will function properly. 
-  
-  If you do not intend to pay for Future Client, simply remove the mod from your mods folder after downloading the zip or cloning the repo.
-
-  The name of the mod file is client-1.20.3-1.20.1.jar
-
-  https://www.futureclient.net/purchase.php
 
 - Cloth Config API:
 
@@ -86,17 +74,15 @@ None of these mods are made by me, and I do not claim ownership of any of them.
 
   https://modrinth.com/mod/modmenu
 
-- Rusherhack:
+- Meteor Client:
   
-  Another great utility mod/hacked client I use. It has a lot of good movement capibility. 
-
-  You need to run the installer you get from the forum before it will function properly. 
+  A free utility mod/hacked client.
   
-  If you do not intend to pay for Rusherhack, simply remove the mod from your mods folder after downloading the zip or cloning the repo.
+  Does require some configging to get working.
+  
+  https://github.com/MeteorDevelopment/meteor-client
 
-  The name of the mod file is rusherhack-loader.jar
-
-  https://rusherhack.org/
+  https://meteorclient.com/
   
 - Sodium: 
 
