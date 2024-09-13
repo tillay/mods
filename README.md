@@ -48,11 +48,9 @@ None of these mods are made by me, and I do not claim ownership of any of them.
   
   A great hacked client/utility mod I use mainly for PvP.
   
-  You need to run the installer you get from the forum before it will function properly. 
-  
-  If you do not intend to pay for Future Client, simply remove the mod from your mods folder after downloading the zip or cloning the repo.
-
   The name of the mod file is client-1.20.3-1.20.1.jar
+  
+  It is not included in the repo.
 
   https://www.futureclient.net/purchase.php
 
@@ -90,9 +88,7 @@ None of these mods are made by me, and I do not claim ownership of any of them.
   
   Another great utility mod/hacked client I use. It has a lot of good movement capibility. 
 
-  You need to run the installer you get from the forum before it will function properly. 
-  
-  If you do not intend to pay for Rusherhack, simply remove the mod from your mods folder after downloading the zip or cloning the repo.
+  The mod is not included in the repo and needs to be purchased.
 
   The name of the mod file is rusherhack-loader.jar
 
